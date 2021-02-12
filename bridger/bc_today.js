@@ -1,18 +1,5 @@
 
-/*
-   New Perspectives on HTML5 and CSS3, 8th Edition
-   Tutorial 9
-   Case Problem 1
 
-   Today at the Union Script
-   Author: Eric Hsin
-   Date:   2/9/21
-   
-   This script uses the getEvent() function to return the
-   HTML code containin the daily events at the Bridger College
-   student union.
-
-*/
 var thisDate=new Date();
 var dateString=thisDate.toLocaleDateString('en-us');
 
